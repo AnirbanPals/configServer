@@ -4,10 +4,11 @@ Spring Cloud Config Server for dynamic Configurations
 
 
 Spring Cloud Config Server has two major sub-projects
-Spring.cloud.config.server:
-stl-tolls
-stl-tolls-performance
-
+<p><b>Spring.cloud.config.server:</b><br/>
+<ul>
+    <li>stl-tolls</li>
+    <li>stl-tolls-performance</li>
+</ul>
 Used for configuring Application properties
 Sub-directories
     | 
